@@ -1,24 +1,13 @@
-# README
+# Rails練習用ブログアプリ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+このツールはRails開発練習用のブログアプリです。
 
-Things you may want to cover:
 
-* Ruby version
+## 開発環境
+- Rocky Linux 9
+- ruby 3.3.3
+- Rails 8
+- SQLite3
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 現時点で行ったこと
+- [RailsガイドのGetting Started](https://railsguides.jp/v8.0/getting_started.html)の12章まで
